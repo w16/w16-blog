@@ -124,3 +124,28 @@ favicon: /favicon.png
 
 # Disqus
 disqus_shortname: w16blog
+
+
+# Plugins
+
+# All Minifier
+html_minifier:
+  enable: true
+  exclude:
+
+css_minifier:
+  enable: false
+  exclude:
+    - "*.min.css"
+
+js_minifier:
+  enable: true
+  mangle: true
+  output:
+  compress:
+  exclude:
+    - "*.min.js"
+
+image_minifier:
+  enable: false
+  
