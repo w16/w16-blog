@@ -1,10 +1,16 @@
 title: Configurando Filtros para Contact Form 7
-date: 2015-10-06 15:43:53
-category: Wordpress
-tags: wordpress, contact-form-7, wp-hooks
+thumbnail: gallery/img-configurando-contact-form-7-hooks.png
+banner: gallery/img-configurando-contact-form-7-hooks.png
+category:
+  - Wordpress
+tags:
+  - wordpress
+  - contact-form-7
+  - wp-hooks
+categories:
+  - Wordpress
+date: 2015-10-06 15:43:00
 ---
-
-{% img thumb /gallery/img-configurando-contact-form-7-hooks.png %}
 
 ## Introdução
 O [Contact Form 7](http://contactform7.com) é um plugin para criação de Formulário de Contato para **Wordpress** presente em mais de um milhão de websites e com mais de 30 milhões de downloads. Sem dúvida, seu sucesso se deve à sua simplicidade e eficácia.

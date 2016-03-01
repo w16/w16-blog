@@ -7,7 +7,7 @@ title: W16 Blog
 subtitle: Otimização de Performance Web
 description: Blog WPO.ninja
 author: W16 Otimização de Performance Web
-language: pt_BR
+language: pt-BR
 timezone:
 
 # URL
@@ -67,7 +67,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: w16-hueman
+theme: w16-icarus
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
