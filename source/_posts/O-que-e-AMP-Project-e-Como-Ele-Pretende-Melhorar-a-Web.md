@@ -1,4 +1,6 @@
+---
 title: O que é AMP Project e Como Ele Pretende Melhorar a Web
+excerpt: "Estamos acostumados a utilizar smartphones na internet com conexão 3G e já esperar muito tempo até encontrarmos o que queremos."
 thumbnail: gallery/amp-project.png
 banner: gallery/amp-project.png
 tags:

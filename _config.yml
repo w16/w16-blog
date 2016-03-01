@@ -148,4 +148,15 @@ js_minifier:
 
 image_minifier:
   enable: false
-  
+
+# Auto NoFollow # adds target_blank to all external links
+nofollow:
+    enable: true
+    exclude:
+
+# Feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
