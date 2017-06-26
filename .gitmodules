@@ -1,0 +1,3 @@
+[submodule "themes/w16-icarus"]
+	path = themes/w16-icarus
+	url = https://github.com/w16/hexo-theme-icarus
