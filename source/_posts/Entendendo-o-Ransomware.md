@@ -1,9 +1,6 @@
+---
 title: Entendendo o Ransomware
-excerpt: >-
-  Você provavelmente já ouviu falar sobre Ransomware, certo? O vírus mais falado
-  do momento tem causado a maior dor de cabeça aos administradores de sistemas,
-  com casos recentes de ataques em grande escala como o WannaCry, para Windows,
-  e o Erebus para Linux.
+excerpt: Você provavelmente já ouviu falar sobre Ransomware, certo? O vírus mais falado do momento tem causado a maior dor de cabeça aos administradores de sistemas, com casos recentes de ataques em grande escala como o WannaCry, para Windows, e o Erebus para Linux.
 thumbnail: gallery/ransomware-post.jpg
 banner: gallery/ransomware-post.jpg
 categories:

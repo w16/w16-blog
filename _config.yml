@@ -73,7 +73,7 @@ theme: w16-icarus
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:w16/w16.github.io.git
+  repo: https://github.com/w16/w16.github.io.git
   branch: master
 
 use_google_apis: true
